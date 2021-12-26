@@ -1,0 +1,300 @@
+Epoch: 1
+loss: 0.189733  [0.000000/11665.000000]
+loss: 0.048083  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 5330 
+ TN: 290520 
+ FN: 9700 
+ FP: 2250 
+
+Test Error: 
+ Accuracy: 96.1%
+ Recall: 35.5%
+ Precision: 70.3%
+ MCC: 0.5
+
+Epoch: 2
+loss: 0.073621  [0.000000/11665.000000]
+loss: 0.043373  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 7760 
+ TN: 289345 
+ FN: 7270 
+ FP: 3425 
+
+Test Error: 
+ Accuracy: 96.5%
+ Recall: 51.6%
+ Precision: 69.4%
+ MCC: 0.6
+
+Epoch: 3
+loss: 0.070172  [0.000000/11665.000000]
+loss: 0.043916  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 8074 
+ TN: 290998 
+ FN: 6956 
+ FP: 1772 
+
+Test Error: 
+ Accuracy: 97.2%
+ Recall: 53.7%
+ Precision: 82.0%
+ MCC: 0.7
+
+Epoch: 4
+loss: 0.067178  [0.000000/11665.000000]
+loss: 0.039055  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 9256 
+ TN: 290081 
+ FN: 5774 
+ FP: 2689 
+
+Test Error: 
+ Accuracy: 97.3%
+ Recall: 61.6%
+ Precision: 77.5%
+ MCC: 0.7
+
+Epoch: 5
+loss: 0.062899  [0.000000/11665.000000]
+loss: 0.038857  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 9909 
+ TN: 290184 
+ FN: 5121 
+ FP: 2586 
+
+Test Error: 
+ Accuracy: 97.5%
+ Recall: 65.9%
+ Precision: 79.3%
+ MCC: 0.7
+
+Epoch: 6
+loss: 0.060865  [0.000000/11665.000000]
+loss: 0.037215  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10247 
+ TN: 290327 
+ FN: 4783 
+ FP: 2443 
+
+Test Error: 
+ Accuracy: 97.7%
+ Recall: 68.2%
+ Precision: 80.7%
+ MCC: 0.7
+
+Epoch: 7
+loss: 0.054500  [0.000000/11665.000000]
+loss: 0.034703  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10594 
+ TN: 289625 
+ FN: 4436 
+ FP: 3145 
+
+Test Error: 
+ Accuracy: 97.5%
+ Recall: 70.5%
+ Precision: 77.1%
+ MCC: 0.7
+
+Epoch: 8
+loss: 0.049674  [0.000000/11665.000000]
+loss: 0.035453  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10417 
+ TN: 289958 
+ FN: 4613 
+ FP: 2812 
+
+Test Error: 
+ Accuracy: 97.6%
+ Recall: 69.3%
+ Precision: 78.7%
+ MCC: 0.7
+
+Epoch: 9
+loss: 0.049215  [0.000000/11665.000000]
+loss: 0.034170  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10216 
+ TN: 290337 
+ FN: 4814 
+ FP: 2433 
+
+Test Error: 
+ Accuracy: 97.6%
+ Recall: 68.0%
+ Precision: 80.8%
+ MCC: 0.7
+
+Epoch: 10
+loss: 0.049357  [0.000000/11665.000000]
+loss: 0.034186  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10971 
+ TN: 289215 
+ FN: 4059 
+ FP: 3555 
+
+Test Error: 
+ Accuracy: 97.5%
+ Recall: 73.0%
+ Precision: 75.5%
+ MCC: 0.7
+
+Epoch: 11
+loss: 0.045292  [0.000000/11665.000000]
+loss: 0.033287  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10655 
+ TN: 289851 
+ FN: 4375 
+ FP: 2919 
+
+Test Error: 
+ Accuracy: 97.6%
+ Recall: 70.9%
+ Precision: 78.5%
+ MCC: 0.7
+
+Epoch: 12
+loss: 0.048273  [0.000000/11665.000000]
+loss: 0.032779  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10434 
+ TN: 290020 
+ FN: 4596 
+ FP: 2750 
+
+Test Error: 
+ Accuracy: 97.6%
+ Recall: 69.4%
+ Precision: 79.1%
+ MCC: 0.7
+
+Epoch: 13
+loss: 0.047686  [0.000000/11665.000000]
+loss: 0.031962  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10135 
+ TN: 290454 
+ FN: 4895 
+ FP: 2316 
+
+Test Error: 
+ Accuracy: 97.7%
+ Recall: 67.4%
+ Precision: 81.4%
+ MCC: 0.7
+
+Epoch: 14
+loss: 0.045380  [0.000000/11665.000000]
+loss: 0.032860  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10230 
+ TN: 290205 
+ FN: 4800 
+ FP: 2565 
+
+Test Error: 
+ Accuracy: 97.6%
+ Recall: 68.1%
+ Precision: 80.0%
+ MCC: 0.7
+
+Epoch: 15
+loss: 0.045317  [0.000000/11665.000000]
+loss: 0.032347  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10799 
+ TN: 289313 
+ FN: 4231 
+ FP: 3457 
+
+Test Error: 
+ Accuracy: 97.5%
+ Recall: 71.8%
+ Precision: 75.8%
+ MCC: 0.7
+
+Epoch: 16
+loss: 0.044981  [0.000000/11665.000000]
+loss: 0.032509  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10556 
+ TN: 289866 
+ FN: 4474 
+ FP: 2904 
+
+Test Error: 
+ Accuracy: 97.6%
+ Recall: 70.2%
+ Precision: 78.4%
+ MCC: 0.7
+
+Epoch: 17
+loss: 0.044834  [0.000000/11665.000000]
+loss: 0.031242  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10106 
+ TN: 290457 
+ FN: 4924 
+ FP: 2313 
+
+Test Error: 
+ Accuracy: 97.6%
+ Recall: 67.2%
+ Precision: 81.4%
+ MCC: 0.7
+
+Epoch: 18
+loss: 0.045063  [0.000000/11665.000000]
+loss: 0.032632  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10273 
+ TN: 289954 
+ FN: 4757 
+ FP: 2816 
+
+Test Error: 
+ Accuracy: 97.5%
+ Recall: 68.3%
+ Precision: 78.5%
+ MCC: 0.7
+
+Epoch: 19
+loss: 0.045479  [0.000000/11665.000000]
+loss: 0.032964  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10266 
+ TN: 290034 
+ FN: 4764 
+ FP: 2736 
+
+Test Error: 
+ Accuracy: 97.6%
+ Recall: 68.3%
+ Precision: 79.0%
+ MCC: 0.7
+
+Epoch: 20
+loss: 0.047065  [0.000000/11665.000000]
+loss: 0.030370  [6000.000000/11665.000000]
+Test Matrix: 
+ TP: 10671 
+ TN: 289431 
+ FN: 4359 
+ FP: 3339 
+
+Test Error: 
+ Accuracy: 97.5%
+ Recall: 71.0%
+ Precision: 76.2%
+ MCC: 0.7
+
